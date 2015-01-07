@@ -4,4 +4,4 @@ ny ting
 
 Her er viktige ting
 
-Her kommer det endringer som er viktige
+Her kommer det endringer som er viktige. VIKTIGE
